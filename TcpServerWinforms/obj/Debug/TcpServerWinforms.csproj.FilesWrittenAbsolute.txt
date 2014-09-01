@@ -1,0 +1,7 @@
+/media/rtxn0378/44D29755D29749D6/Users/Sean/Desktop/TcpServerWinforms/TcpServerWinforms/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/media/rtxn0378/44D29755D29749D6/Users/Sean/Desktop/TcpServerWinforms/TcpServerWinforms/obj/Debug/TcpServerWinforms.Form1.resources
+/media/rtxn0378/44D29755D29749D6/Users/Sean/Desktop/TcpServerWinforms/TcpServerWinforms/obj/Debug/TcpServerWinforms.Resources.resources
+/media/rtxn0378/44D29755D29749D6/Users/Sean/Desktop/TcpServerWinforms/TcpServerWinforms/bin/Debug/TcpServerWinforms.exe.mdb
+/media/rtxn0378/44D29755D29749D6/Users/Sean/Desktop/TcpServerWinforms/TcpServerWinforms/bin/Debug/TcpServerWinforms.exe
+/media/rtxn0378/44D29755D29749D6/Users/Sean/Desktop/TcpServerWinforms/TcpServerWinforms/obj/Debug/TcpServerWinforms.exe
+/media/rtxn0378/44D29755D29749D6/Users/Sean/Desktop/TcpServerWinforms/TcpServerWinforms/obj/Debug/TcpServerWinforms.exe.mdb

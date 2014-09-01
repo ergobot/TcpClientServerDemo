@@ -1,0 +1,9 @@
+c:\users\sean\documents\visual studio 2012\Projects\TcpServerWinforms\TcpServerWinforms\bin\Debug\TcpServerWinforms.exe.config
+C:\Users\Sean\documents\visual studio 2012\Projects\TcpServerWinforms\TcpServerWinforms\bin\Debug\TcpServerWinforms.exe
+C:\Users\Sean\documents\visual studio 2012\Projects\TcpServerWinforms\TcpServerWinforms\bin\Debug\TcpServerWinforms.pdb
+C:\Users\Sean\documents\visual studio 2012\Projects\TcpServerWinforms\TcpServerWinforms\obj\Debug\TcpServerWinforms.csprojResolveAssemblyReference.cache
+C:\Users\Sean\documents\visual studio 2012\Projects\TcpServerWinforms\TcpServerWinforms\obj\Debug\TcpServerWinforms.Form1.resources
+C:\Users\Sean\documents\visual studio 2012\Projects\TcpServerWinforms\TcpServerWinforms\obj\Debug\TcpServerWinforms.Properties.Resources.resources
+C:\Users\Sean\documents\visual studio 2012\Projects\TcpServerWinforms\TcpServerWinforms\obj\Debug\TcpServerWinforms.csproj.GenerateResource.Cache
+C:\Users\Sean\documents\visual studio 2012\Projects\TcpServerWinforms\TcpServerWinforms\obj\Debug\TcpServerWinforms.exe
+C:\Users\Sean\documents\visual studio 2012\Projects\TcpServerWinforms\TcpServerWinforms\obj\Debug\TcpServerWinforms.pdb

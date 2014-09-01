@@ -1,0 +1,17 @@
+Demonstrating client and server application using async/await TCP server in mono and TCP client in node.js.  
+
+Prereqs:
+install node and npm
+mono and monodevelop
+
+Server:
+Open the solution 'TcpServerWinforms'
+Run the solution.
+
+Client:
+open terminal, go to directory with 'client.js'
+run the following command:
+node client.js
+
+
+Enter your commands on the terminal running the 'client.js' process.  The command you entered will be sent to the winform textbox control.  The command will also be echo'd back to you on the client terminal.  

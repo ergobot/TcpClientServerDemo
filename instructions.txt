@@ -1,0 +1,14 @@
+Prereqs:
+install node and npm
+
+Server:
+Open the solution 'TcpServerWinforms'
+Run the solution.
+
+Client:
+open terminal, go to directory with 'client.js'
+run the following command:
+node client.js
+
+
+Enter your commands on the terminal running the 'client.js' process.  The command you entered will be sent to the winform textbox control.  The command will also be echo'd back to you on the client terminal.  
